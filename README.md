@@ -12,7 +12,7 @@
 
 
 
-I'm an 18 year old developer. I love coding and solving complex problems with cutting-edge technology. My main focus is learning front-end and back-end development, creating applications that impact the lives of thousands of users.
+I'm an 19 year old developer. I love coding and solving complex problems with cutting-edge technology. My main focus is learning front-end and back-end development, creating applications that impact the lives of thousands of users.
 
 #### Skills
 

@@ -30,7 +30,7 @@ I'm an 19 year old developer. I love coding and solving complex problems with cu
 
 
 <div align="center">
-<br><p align="centre"><b> Visitors Count </b></p>  
+<br><p align="centre"><b>  </b></p>  
 <p align="center"><img align="center" /></p> 
 <br></div>
 

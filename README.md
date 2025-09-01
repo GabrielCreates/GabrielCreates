@@ -1,35 +1,53 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5733&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Gabriel+Rocha;I'm+19+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielRocha&show_icons=true&count_private=true&hide_border=true&title_color=FF5733&icon_color=FF5733&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRocha&layout=compact&hide_border=true&title_color=FF5733&text_color=FF5733&bg_color=0d1117" />
+<div align="center">
+  <h1 style="font-family: 'Arial', sans-serif; color: #fff;">Hi, I'm Gabriel Rocha</h1>
+  <p style="font-family: 'Arial', sans-serif; font-size: 20px; color: #fff;">
+    19 years old | Developer | From São Paulo, SP | Passionate about solving problems with code!
+  </p>
+  <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #fff;">
+    Currently studying Analysis and Systems Development.
+  </p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielRocha&bg_color=000000&color=FF5733&line=FF0000&point=FF5733&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+  <!-- GitHub Stats -->
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielRocha&show_icons=true&count_private=true&hide_border=true&title_color=FF5733&icon_color=FF5733&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Rocha GitHub Stats" /> 
+  <!-- Top Languages -->
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRocha&layout=compact&hide_border=true&title_color=FF5733&text_color=FF5733&bg_color=0d1117" />
+</div>
 
-I'm an 19 year old developer. I love coding and solving complex problems with cutting-edge technology. My main focus is learning front-end and back-end development, creating applications that impact the lives of thousands of users.
+<br/>
 
-#### Skills
+### 📚 Skills & Technologies
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-</p>
+<div align="left">
+  <p style="font-family: 'Arial', sans-serif; color: #FF5733;">I specialize in:</p>
+  <ul style="font-family: 'Arial', sans-serif; color: #fff; list-style-type: none;">
+    <li>👨‍💻 JavaScript (React, Node.js)</li>
+    <li>🐍 Python (Flask, Django)</li>
+    <li>🌐 HTML5 & CSS3</li>
+    <li>💾 Databases (MySQL, PostgreSQL)</li>
+  </ul>
+</div>
 
-#### Socials
+<br/>
+
+### 📈 GitHub Activity
+
+[![Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielRocha&bg_color=000000&color=FF5733&line=FF0000&point=FF5733&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+### 🔗 Connect with Me
 
 <p align="left"> 
-  <a href="https://discord.com/users/1265148168841199719" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://github.com/GabrielCreates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/gabrielrochaads/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://discord.com/users/1265148168841199719" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a> 
+  <a href="https://github.com/GabrielCreates" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a> 
+  <a href="https://www.linkedin.com/in/gabrielrochaads/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> 
 </p>
 
-<div align="center">
-<br><p align="center"><b>  </b></p>  
-<p align="center"><img align="center" /></p> 
-<br></div>
+<br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=footer"/>
+<img width=100% src="https://capsule-rende
+e=waving&color=FF5733&height=120&section=footer"/>

@@ -1,62 +1,126 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:FF2D00,100:2C5364&section=header&text=Gabriel%20Rocha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-<h3 align="center">Full Stack Engineer</h3>
-<p align="center">
- JavaScript • React • Node.js • Python
-</p>
-<p align="center">
+# README.md
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,75:0EA5E9,100:38BDF8&section=header&text=Gabriel%20Rocha&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Training%20%7C%20Backend%20Focus&descSize=17&descAlignY=55"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Student+building+real+software;Backend%2C+APIs+and+databases;Learning+clean+architecture;Improving+one+project+at+a+time"/>
+
+<br/>
+
 <a href="https://github.com/GabrielCreates">
-<img src="https://img.shields.io/github/followers/GabrielCreates?style=social"/>
+  <img src="https://img.shields.io/github/followers/GabrielCreates?style=for-the-badge&logo=github&color=0EA5E9&labelColor=020617"/>
 </a>
 <a href="https://www.linkedin.com/in/gabrielrochaads/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-FF2D00?style=flat&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/>
 </a>
-</p>
+
+</div>
+
 ---
-## ⚡ Profile
-Full Stack Developer focused on building scalable and performant applications.
-- Backend-driven mindset (Node.js & Python)
-- Clean architecture and maintainability
-- Database design and API structuring
-- Focused on real-world systems, not just UI
+
+## Sobre
+
+Sou um **Desenvolvedor de Software em Treinamento** focado no desenvolvimento backend, APIs, bancos de dados e estrutura limpa de aplicações.
+
+Atualmente aprendendo a construir software que não seja apenas funcional, mas também organizado, sustentável e mais próximo dos padrões de produção do mundo real.
+
+**Direção principal:** Desenvolvimento Backend
+**Foco atual:** Node.js, Python, APIs, bancos de dados e arquitetura
+**Objetivo:** Tornar-me um engenheiro de software forte construindo projetos reais
+
+<br clear="right"/>
+
 ---
-## 🧩 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,django,flask,postgres,mysql,git" />
-</p>
+
+## Tecnologia
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,django,flask,postgres,mysql,redis,docker,git,github,vscode" />
+
+<br/><br/>
+<img src="https://img.shields.io/badge/Backend-020617?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8&labelColor=020617&color=0EA5E9"/>
+<img src="https://img.shields.io/badge/API%20Development-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8&labelColor=020617&color=0EA5E9"/>
+<img src="https://img.shields.io/badge/Database%20Design-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8&labelColor=020617&color=0EA5E9"/>
+<img src="https://img.shields.io/badge/Clean%20Code-020617?style=for-the-badge&logo=codefactor&logoColor=38BDF8&labelColor=020617&color=0EA5E9"/>
+
+</div>
+
 ---
-## 📊 Metrics
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielCreates&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCreates&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
+## O Que Estou Construindo
+
+### Sistema de Autenticação
+
+Autenticação JWT, permissões baseadas em funções, rotas protegidas, fluxo de refresh token e estrutura segura de backend.
+
+### Arquitetura de API REST
+
+APIs Node.js com camadas organizadas, estrutura de serviços, integração de banco de dados e padrões de código manuteníveis.
+
+### Aplicações Full Stack
+
+Interfaces React conectadas a serviços backend reais, operações de banco de dados e fluxos completos de produto.
+
+### Estudos de Design de Sistema
+Notas e experimentos focados em escalabilidade, desempenho, design de APIs e arquitetura de backend.
+
 ---
-## 🔥 Projects
-<p align="center"><b>What actually proves your level</b></p>
-- 🔐 Authentication System (JWT + Roles + Security)
-- ⚙️ Scalable REST API (Node.js + Clean Architecture)
-- 🌐 Full Stack Platform (React + Backend + Database)
+
+## Foco Atual
+
+```txt
+Backend Development    ██████████
+API Architecture       █████████
+Database Design        ████████
+Clean Architecture     ████████
+DevOps Fundamentals    ██████
+```
+
 ---
-## 📈 Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCreates&bg_color=0F2027&color=FF2D00&line=FF5733&point=FFFFFF&hide_border=true"/>
-</p>
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCreates&bg_color=020617&color=E5E7EB&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
 ---
-## 🧠 Current Focus
-- System design
-- Performance optimization
-- Backend scalability
+
+## Caminho de Aprendizado
+
+```txt
+01. Fundamentos de programação
+02. Desenvolvimento backend com Node.js e Python
+03. APIs REST e autenticação
+04. Modelagem de banco de dados e SQL
+05. Arquitetura limpa e estrutura de projeto escalável
+06. Implantação, Docker e noções básicas de produção
+```
+
 ---
-## 🌐 Contact
-<p align="center">
+
+## Conectar
+
+<div align="center">
+
+<a href="https://github.com/GabrielCreates">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gabrielrochaads/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://discord.com/users/1265148168841199719">
-<img src="https://skillicons.dev/icons?i=discord" height="30"/>
+  <img src="https://skillicons.dev/icons?i=discord" height="40"/>
 </a>
-<a href="https://github.com/GabrielCreates">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
-</a>
-<a href="https://www.linkedin.com/in/gabrielrochaads/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-</a>
-</p>
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2C5364,50:FF2D00,100:0F2027&section=footer"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:38BDF8,50:0F172A,100:020617&section=footer"/>
+
+</div>

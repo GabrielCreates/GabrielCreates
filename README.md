@@ -1,4 +1,4 @@
-# Profile 
+# Gabriel Rocha de Souza | Developer & Cybersecurity
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,75:0EA5E9,100:38BDF8&section=header&text=Gabriel%20Rocha&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Training%20%7C%20Backend%20Focus&descSize=17&descAlignY=55"/>

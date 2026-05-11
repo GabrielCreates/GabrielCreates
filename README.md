@@ -1,7 +1,6 @@
 # README.md
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,75:0EA5E9,100:38BDF8&section=header&text=Gabriel%20Rocha&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Training%20%7C%20Backend%20Focus&descSize=17&descAlignY=55"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Student+building+real+software;Backend%2C+APIs+and+databases;Learning+clean+architecture;Improving+one+project+at+a+time"/>

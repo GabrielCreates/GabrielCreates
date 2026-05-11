@@ -117,9 +117,7 @@ DevOps Fundamentals    ██████
 <a href="https://discord.com/users/1265148168841199719">
   <img src="https://skillicons.dev/icons?i=discord" height="40"/>
 </a>
-
-<br/><br/>
-
+<br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:38BDF8,50:0F172A,100:020617&section=footer"/>
 
 </div>
